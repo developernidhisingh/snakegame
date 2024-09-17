@@ -22,5 +22,5 @@ To get started with the Snake Game, follow these steps:
 1. **Clone the Repository**: 
 
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/developernidhisingh/snakegame.git
 
